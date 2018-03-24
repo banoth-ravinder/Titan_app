@@ -161,6 +161,7 @@ public class EOGFilter {
                     }
                     sum=0;
                 }
+                i++;
             }
 
 
