@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Titan_final</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="preference_file_key">com.lannbox.rfduinotest.PREFERENCE_FILE_KEY</string>
+    <string name="title_activity_hr">HRActivity</string>
+
+    <string name="action_settings">Settings</string>
+
+</resources>

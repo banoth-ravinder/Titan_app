@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="gdx-audio">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/gdx-audio.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
